@@ -642,10 +642,10 @@
   resolved "https://registry.yarnpkg.com/@ivangabriele/eslint-config-typescript-base/-/eslint-config-typescript-base-4.1.1.tgz#91ecf0fe8f51cf2a6c75ebc287857ddd13aabbe3"
   integrity sha512-FnXrChJiS20BdL2zCuG+jLXKKk+SNXJbOpaIetWihebIY+0WL4kVH7YntONSNStx1FeS26YsA9Jhaw8owDsjxQ==
 
-"@ivangabriele/prettier-config@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@ivangabriele/prettier-config/-/prettier-config-3.1.0.tgz#8b04da8c8b93ace2e6b6d95b3cf2eb83903d46f7"
-  integrity sha512-Pf7z7UDFa9P+otKGgUXokeWO8AgqLDs5O2vOejx+wVvX5nF096GJfYIhbYCXbkLUV4+fo8qsw6rTtXo7utadsw==
+"@ivangabriele/prettier-config@5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@ivangabriele/prettier-config/-/prettier-config-5.0.1.tgz#204a58ba1cbdf0a2f06e0f9b8163cb3ed21312e4"
+  integrity sha512-+Ucn9bS+BSkvjiyPNFVKLR0KjEf8H4PglZwReZ2lMXtqbfVtq/gaGuuPg56y2JU9J1laXCZ9fN/O0oIOGBEo6g==
 
 "@ivangabriele/semantic-release-config-base@2.1.0":
   version "2.1.0"
